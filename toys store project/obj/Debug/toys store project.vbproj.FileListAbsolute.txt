@@ -1,0 +1,22 @@
+C:\Users\Venkat\Desktop\final vb\toys store solution\toys store project\bin\Debug\toys store project.exe.config
+C:\Users\Venkat\Desktop\final vb\toys store solution\toys store project\bin\Debug\toys store project.exe
+C:\Users\Venkat\Desktop\final vb\toys store solution\toys store project\bin\Debug\toys store project.pdb
+C:\Users\Venkat\Desktop\final vb\toys store solution\toys store project\bin\Debug\toys store project.xml
+C:\Users\Venkat\Desktop\final vb\toys store solution\toys store project\obj\Debug\toys store project.vbprojResolveAssemblyReference.cache
+C:\Users\Venkat\Desktop\final vb\toys store solution\toys store project\obj\Debug\toys_store_project.Form1.resources
+C:\Users\Venkat\Desktop\final vb\toys store solution\toys store project\obj\Debug\toys_store_project.Resources.resources
+C:\Users\Venkat\Desktop\final vb\toys store solution\toys store project\obj\Debug\toys store project.vbproj.GenerateResource.Cache
+C:\Users\Venkat\Desktop\final vb\toys store solution\toys store project\obj\Debug\toys store project.exe
+C:\Users\Venkat\Desktop\final vb\toys store solution\toys store project\obj\Debug\toys store project.xml
+C:\Users\Venkat\Desktop\final vb\toys store solution\toys store project\obj\Debug\toys store project.pdb
+C:\Users\Viswa\Desktop\toys store solution\toys store project\bin\Debug\toys store project.exe.config
+C:\Users\Viswa\Desktop\toys store solution\toys store project\obj\Debug\toys store project.exe
+C:\Users\Viswa\Desktop\toys store solution\toys store project\obj\Debug\toys store project.xml
+C:\Users\Viswa\Desktop\toys store solution\toys store project\obj\Debug\toys store project.pdb
+C:\Users\Viswa\Desktop\toys store solution\toys store project\bin\Debug\toys store project.exe
+C:\Users\Viswa\Desktop\toys store solution\toys store project\bin\Debug\toys store project.pdb
+C:\Users\Viswa\Desktop\toys store solution\toys store project\bin\Debug\toys store project.xml
+C:\Users\Viswa\Desktop\toys store solution\toys store project\obj\Debug\toys store project.vbprojResolveAssemblyReference.cache
+C:\Users\Viswa\Desktop\toys store solution\toys store project\obj\Debug\toys_store_project.Form1.resources
+C:\Users\Viswa\Desktop\toys store solution\toys store project\obj\Debug\toys_store_project.Resources.resources
+C:\Users\Viswa\Desktop\toys store solution\toys store project\obj\Debug\toys store project.vbproj.GenerateResource.Cache
